@@ -1,0 +1,1258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="WebTest2" Id="fe449e87-d98b-41bb-86d1-8c6db43a5134" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="WebTest2.9faed8f6-8926-4eab-a2c0-b64ad1e56c8b.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="87cc2cdb-a556-46d7-9467-147cd13e93ff" Version="1.1" Url="https://suggest.yandex.com.tr/suggest-ff.cgi" ThinkTime="28" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False" />
+    <Request Method="GET" Guid="dae055f4-2348-49f7-99b5-fefc3db7a1ff" Version="1.1" Url="https://www.trendyol.com/" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False" />
+    <Request Method="GET" Guid="5f50c3dd-ba3e-4146-a756-9c6df91103a1" Version="1.1" Url="https://www.trendyol.com/Resources/fonts/sourcesanspro-regular-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="6e48744a-f4df-4d9c-bc4d-cfefe8e91d07" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/sourcesanspro-regular-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="ce7e9afb-af11-46a1-99dc-e2a9157ba3db" Version="1.1" Url="https://www.trendyol.com/Resources/fonts/sourcesanspro-semibold-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="58352563-d28e-41b7-ac7e-9aa05f23ca23" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/sourcesanspro-semibold-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="63418cd7-b341-4199-b3ec-8255f8e5f48d" Version="1.1" Url="https://www.trendyol.com/Resources/images/time-white.svg" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="c5843392-541b-43d8-a70e-8814ba676c6d" Version="1.1" Url="https://m2.trendyol.com/script" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="userId" Value="undefined" RecordedValue="undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pid" Value="cioJll18h7" RecordedValue="cioJll18h7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="188bcabc-4a99-4aa3-bfe8-e2cdbdfc35ff" Version="1.1" Url="https://www.trendyol.com/Menu/FeaturedBoutiques" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="boutiqueQuery" Value="%2Ferkek" RecordedValue="%2Ferkek" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="genderTypeId" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="65aae99f-3ac3-40ee-9a47-e8a89b5b01b3" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/973256821/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="random" Value="1526558525185" RecordedValue="1526558525185" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cv" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fst" Value="1526558525185" RecordedValue="1526558525185" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="resp" Value="GooglemKTybQhCsO" RecordedValue="GooglemKTybQhCsO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_h" Value="768" RecordedValue="768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_w" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_ah" Value="728" RecordedValue="728" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_aw" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_his" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_tz" Value="180" RecordedValue="180" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="data" Value="pagetype%3Dhome" RecordedValue="pagetype%3Dhome" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="G4r" RecordedValue="G4r" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.trendyol.com%2F" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tiba" Value="Online%20Al%C4%B1%C5%9Fveri%C5%9F%20Sitesi%2C%20T%C3%BCrkiye%E2%80%99nin%20Trend%20Yolu%20%7C%20Trendyol" RecordedValue="Online%20Al%C4%B1%C5%9Fveri%C5%9F%20Sitesi%2C%20T%C3%BCrkiye%E2%80%99nin%20Trend%20Yolu%20%7C%20Trendyol" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="4a705f55-ad66-4375-aba5-035e4b9e3538" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1024546647/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="random" Value="1526558525252" RecordedValue="1526558525252" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cv" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fst" Value="1526558525252" RecordedValue="1526558525252" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="resp" Value="GooglemKTybQhCsO" RecordedValue="GooglemKTybQhCsO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_h" Value="768" RecordedValue="768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_w" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_ah" Value="728" RecordedValue="728" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_aw" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_his" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_tz" Value="180" RecordedValue="180" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="data" Value="pagetype%3Dhome" RecordedValue="pagetype%3Dhome" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="G4r" RecordedValue="G4r" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.trendyol.com%2F" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tiba" Value="Online%20Al%C4%B1%C5%9Fveri%C5%9F%20Sitesi%2C%20T%C3%BCrkiye%E2%80%99nin%20Trend%20Yolu%20%7C%20Trendyol" RecordedValue="Online%20Al%C4%B1%C5%9Fveri%C5%9F%20Sitesi%2C%20T%C3%BCrkiye%E2%80%99nin%20Trend%20Yolu%20%7C%20Trendyol" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="123712f4-b37d-4859-a354-1923c476f62a" Version="1.1" Url="https://www.google-analytics.com/gtm/js" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="id" Value="GTM-PRVFGSN" RecordedValue="GTM-PRVFGSN" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="t" Value="gtm10" RecordedValue="gtm10" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cid" Value="481527858.1526545527" RecordedValue="481527858.1526545527" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gac" Value="_gaexp%3DGAX1.2.Gv_SX9IISNW-0D-dG3puSg.17760.1" RecordedValue="_gaexp%3DGAX1.2.Gv_SX9IISNW-0D-dG3puSg.17760.1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="8414d286-6387-4ef2-bdad-eb757646e827" Version="1.1" Url="https://m2.trendyol.com/script" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="userId" Value="undefined" RecordedValue="undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pid" Value="cioJll18h7" RecordedValue="cioJll18h7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="OPTIONS" Guid="b8913d6c-06ce-4994-8b77-ad60482f1fdb" Version="1.1" Url="https://mobile.trendyol.com/secure/json/getUserBasketItemCount" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <BinaryHttpBody ContentType="">
+      </BinaryHttpBody>
+    </Request>
+    <Request Method="POST" Guid="ea695709-4b77-4d94-b2ed-1928fbcac60e" Version="1.1" Url="https://mobile.trendyol.com/secure/json/getUserBasketItemCount" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <StringHttpBody ContentType="application/json" InsertByteOrderMark="False">ewAiAEEAcABwAGwAaQBjAGEAdABpAG8AbgAiADoAMAAsACIAQwBsAGkAZQBuAHQAVgBlAHIAcwBpAG8AbgAiADoAIgBuAHUAbABsACIALAAiAFQAbwBrAGUAbgAiADoAewAiAFQAaQBjAGsAZQB0ACIAOgAwACwAIgBVAHMAZQByAEkAZAAiADoAIgAwACIAfQB9AA==</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="b1d8a4fd-e50e-4d34-a497-1cc76fff8202" Version="1.1" Url="https://creativecdn.com/tags" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="id" Value="pr_G2vgZAaYR7hDjHk0neuD_home" RecordedValue="pr_G2vgZAaYR7hDjHk0neuD_home" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="ca14da34-243c-4b60-a294-7f0f9e7eae2e" Version="1.1" Url="https://m2.trendyol.com/script" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="userId" Value="undefined" RecordedValue="undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pid" Value="cioJll18h7" RecordedValue="cioJll18h7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="2adf87b9-ac59-4307-9af7-7cf3353b12a8" Version="1.1" Url="https://connect.facebook.net/signals/config/1434139333470513" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="v" Value="2.8.14" RecordedValue="2.8.14" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="r" Value="stable" RecordedValue="stable" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="5f3e7c04-1db0-4250-9a33-67473ae9aa5f" Version="1.1" Url="https://mc.yandex.ru/watch/34273590" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://mc.yandex.ru/watch/34273590/1?wmode=7&amp;page-url=https%3A%2F%2Fwww.trendyol.com%2F&amp;charset=utf-8&amp;browser-info=ti%3A10%3Aj%3A1%3As%3A1366x768x24%3Ask%3A1%3Aadb%3A2%3Af%3A29.0.0.171%3Afpr%3A367173465701%3Acn%3A1%3Aw%3A1087x633%3Az%3A180%3Ai%3A20180517150208%3Aet%3A1526558529%3Aen%3Autf-8%3Av%3A1112%3Ac%3A1%3Ala%3Atr-tr%3Awh%3A1%3Apv%3A1%3Als%3A992285003676%3Arqn%3A3%3Arn%3A837547998%3Ahid%3A250794231%3Ads%3A0%2C0%2C11%2C309%2C2%2C0%2C0%2C4094%2C955%2C7222%2C7340%2C344%2C4387%3Afp%3A666%3Arqnl%3A1%3Ast%3A1526558529%3Au%3A1526545529248076350%3At%3AOnline%20Al%C4%B1%C5%9Fveri%C5%9F%20Sitesi%2C%20T%C3%BCrkiye%E2%80%99nin%20Trend%20Yolu%20%7C%20Trendyol" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="wmode" Value="7" RecordedValue="7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="page-url" Value="https%3A%2F%2Fwww.trendyol.com%2F" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="charset" Value="utf-8" RecordedValue="utf-8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="browser-info" Value="ti%3A10%3Aj%3A1%3As%3A1366x768x24%3Ask%3A1%3Aadb%3A2%3Af%3A29.0.0.171%3Afpr%3A367173465701%3Acn%3A1%3Aw%3A1087x633%3Az%3A180%3Ai%3A20180517150208%3Aet%3A1526558529%3Aen%3Autf-8%3Av%3A1112%3Ac%3A1%3Ala%3Atr-tr%3Awh%3A1%3Apv%3A1%3Als%3A992285003676%3Arqn%3A3%3Arn%3A837547998%3Ahid%3A250794231%3Ads%3A0%2C0%2C11%2C309%2C2%2C0%2C0%2C4094%2C955%2C7222%2C7340%2C344%2C4387%3Afp%3A666%3Arqnl%3A1%3Ast%3A1526558529%3Au%3A1526545529248076350%3At%3AOnline%20Al%C4%B1%C5%9Fveri%C5%9F%20Sitesi%2C%20T%C3%BCrkiye%E2%80%99nin%20Trend%20Yolu%20%7C%20Trendyol" RecordedValue="ti%3A10%3Aj%3A1%3As%3A1366x768x24%3Ask%3A1%3Aadb%3A2%3Af%3A29.0.0.171%3Afpr%3A367173465701%3Acn%3A1%3Aw%3A1087x633%3Az%3A180%3Ai%3A20180517150208%3Aet%3A1526558529%3Aen%3Autf-8%3Av%3A1112%3Ac%3A1%3Ala%3Atr-tr%3Awh%3A1%3Apv%3A1%3Als%3A992285003676%3Arqn%3A3%3Arn%3A837547998%3Ahid%3A250794231%3Ads%3A0%2C0%2C11%2C309%2C2%2C0%2C0%2C4094%2C955%2C7222%2C7340%2C344%2C4387%3Afp%3A666%3Arqnl%3A1%3Ast%3A1526558529%3Au%3A1526545529248076350%3At%3AOnline%20Al%C4%B1%C5%9Fveri%C5%9F%20Sitesi%2C%20T%C3%BCrkiye%E2%80%99nin%20Trend%20Yolu%20%7C%20Trendyol" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+      <FormPostHttpBody />
+    </Request>
+    <Request Method="GET" Guid="fb7685ac-0cc6-4142-95ba-db8973d06c93" Version="1.1" Url="https://dis.eu.criteo.com/dis/dis.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam321.dspid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?dspid=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam322.uid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;uid=" />
+            <RuleParameter Name="EndsWith" Value="'" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam323.uid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?uid=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam324._origin" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;_origin=" />
+            <RuleParameter Name="EndsWith" Value="'" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="p" Value="9939" RecordedValue="9939" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cb" Value="17742126006" RecordedValue="17742126006" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ref" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sc_r" Value="1366x768" RecordedValue="1366x768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sc_d" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="55e8ae74-6efd-4fff-9515-73d43d8e4511" Version="1.1" Url="https://m2.trendyol.com/script" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="userId" Value="undefined" RecordedValue="undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pid" Value="cioJll18h7" RecordedValue="cioJll18h7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="a0c12c56-1233-429f-ab63-984b7b4b90a8" Version="1.1" Url="https://m2.trendyol.com/script" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="userId" Value="undefined" RecordedValue="undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pid" Value="cioJll18h7" RecordedValue="cioJll18h7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="9d29aab5-b4a8-42d9-bb10-c18c19a85339" Version="1.1" Url="https://sync.ligadx.com/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="dspid" Value="18" RecordedValue="18" CorrelationBinding="{{QueryStringParam321.dspid}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="uid" Value="e1a5eb80-b6cf-4176-b69a-9555beda48f3" RecordedValue="e1a5eb80-b6cf-4176-b69a-9555beda48f3" CorrelationBinding="{{QueryStringParam322.uid}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="4ef598d4-f392-45f1-9439-7eb38a4baf4a" Version="1.1" Url="https://pixel.advertising.com/ups/55945/sync" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="uid" Value="e1a5eb80-b6cf-4176-b69a-9555beda48f3" RecordedValue="e1a5eb80-b6cf-4176-b69a-9555beda48f3" CorrelationBinding="{{QueryStringParam323.uid}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="_origin" Value="1" RecordedValue="1" CorrelationBinding="{{QueryStringParam324._origin}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="84806a8c-f87f-4de9-9455-e9ef8d6d346b" Version="1.1" Url="https://m2.trendyol.com/script" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="userId" Value="undefined" RecordedValue="undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pid" Value="cioJll18h7" RecordedValue="cioJll18h7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="c78b65ac-8cf0-49a2-98a6-3408e0ac79fa" Version="1.1" Url="https://www.trendyol.com/Resources/fonts/sourcesanspro-bolditalic-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="d38a1b79-6dd6-4408-b9d6-9dd045d2ed9b" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/sourcesanspro-bolditalic-webfont.eot" ThinkTime="3" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="565c5e3a-e6d7-44bc-a604-531d80226784" Version="1.1" Url="https://www.trendyol.com/Menu/FeaturedBoutiques" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="boutiqueQuery" Value="%2Fkadin%2Baksesuar" RecordedValue="%2Fkadin%2Baksesuar" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="genderTypeId" Value="10" RecordedValue="10" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="2ce2d156-30d5-4dc3-a9a1-02effe1ef5b1" Version="1.1" Url="https://www.trendyol.com/Menu/FeaturedBoutiques" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="boutiqueQuery" Value="%2Fkadin%2Bkozmetik" RecordedValue="%2Fkadin%2Bkozmetik" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="genderTypeId" Value="11" RecordedValue="11" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="03aba855-1f65-48b8-a272-6470176cd92c" Version="1.1" Url="https://www.trendyol.com/Menu/FeaturedBoutiques" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="boutiqueQuery" Value="%2Fkadin%2Bayakkabi" RecordedValue="%2Fkadin%2Bayakkabi" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="genderTypeId" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="fac1a5c5-26c2-4290-86cb-4f22e655b7e5" Version="1.1" Url="https://www.trendyol.com/Menu/FeaturedBoutiques" ThinkTime="4" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="boutiqueQuery" Value="%2Fkadin%2Fadidas%2Bnike%2Bpuma%2Basics--onitsuka-tiger%2Bsuperga%2Bhummel%2Bfenerium%2Bgap%2Bmavi%2Btommy-hilfiger%2Blevi-s%2Bnew-balance%2Bcolumbia%2Bthe-north-face%2Bquiksilver" RecordedValue="%2Fkadin%2Fadidas%2Bnike%2Bpuma%2Basics--onitsuka-tiger%2Bsuperga%2Bhummel%2Bfenerium%2Bgap%2Bmavi%2Btommy-hilfiger%2Blevi-s%2Bnew-balance%2Bcolumbia%2Bthe-north-face%2Bquiksilver" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="genderTypeId" Value="22" RecordedValue="22" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="95ddc3a4-07ef-4883-9b15-853bcb604c55" Version="1.1" Url="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="ac9a35c9-0188-4b18-8692-041d1dc7cacf" Version="1.1" Url="https://www.trendyol.com/Resources/fonts/sourcesanspro-regular-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="035b74b4-7101-45e6-8a0a-b938b46d3f74" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/sourcesanspro-regular-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="782cdb4d-8ca8-4e4f-bdca-44a062c04f55" Version="1.1" Url="https://www.trendyol.com/Resources/fonts/sourcesanspro-semibold-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="1b9414c6-3609-4af1-ba50-113fd20f1b1e" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/sourcesanspro-semibold-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="89228851-d80c-4582-b55d-3f224c6c2da7" Version="1.1" Url="https://www.trendyol.com/Resources/fonts/oxygen-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="dc6a91eb-d219-44c9-95f3-8dda91fd3097" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/oxygen-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="a042506c-0ecc-4046-853e-2254a030d70b" Version="1.1" Url="https://www.trendyol.com/Resources/fonts/oxygen-bold-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="9b9e742d-83f5-4323-b1cb-0ae65fc051a4" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/oxygen-bold-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="OPTIONS" Guid="52e7262a-3967-46e2-9fa9-cfb269b1b95c" Version="1.1" Url="https://api.trendyol.com/catalog/boutiquepromotioninfo" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="request.boutiqueId" Value="185219" RecordedValue="185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+      <BinaryHttpBody ContentType="">
+      </BinaryHttpBody>
+    </Request>
+    <Request Method="OPTIONS" Guid="13dfd904-f945-44a7-b7cb-1f85630799fa" Version="1.1" Url="https://api.trendyol.com/catalog/boutiquecargocampaigninfo" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="request.boutiqueId" Value="185219" RecordedValue="185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+      <BinaryHttpBody ContentType="">
+      </BinaryHttpBody>
+    </Request>
+    <Request Method="OPTIONS" Guid="bd8c10b6-546f-49b5-b09b-fef57d0840a2" Version="1.1" Url="https://api.trendyol.com/productsearch/aggregations" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="storefront" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="campaigns" Value="185219" RecordedValue="185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sort" Value="8" RecordedValue="8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pageSize" Value="36" RecordedValue="36" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="page" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="scoringAlgorithmId" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="genderTypeId" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="restrictionStatuses" Value="External" RecordedValue="External" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+      <BinaryHttpBody ContentType="">
+      </BinaryHttpBody>
+    </Request>
+    <Request Method="GET" Guid="1508632b-2c8f-4e8c-add6-5b06ba0c7a01" Version="1.1" Url="https://api.trendyol.com/catalog/boutiquepromotioninfo" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-type" Value="application/json" />
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="request.boutiqueId" Value="185219" RecordedValue="185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="f3925147-dae8-44bb-b5e1-c662aeeb11b1" Version="1.1" Url="https://api.trendyol.com/catalog/boutiquecargocampaigninfo" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-type" Value="application/json" />
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="request.boutiqueId" Value="185219" RecordedValue="185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="4e5407d2-52ef-49ad-9ded-dba1deb43ba7" Version="1.1" Url="https://api.trendyol.com/productsearch/aggregations" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-type" Value="application/json" />
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="storefront" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="campaigns" Value="185219" RecordedValue="185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sort" Value="8" RecordedValue="8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pageSize" Value="36" RecordedValue="36" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="page" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="scoringAlgorithmId" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="genderTypeId" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="restrictionStatuses" Value="External" RecordedValue="External" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="a6fea5bc-b400-4dd0-b8d8-213135167053" Version="1.1" Url="https://www.google-analytics.com/gtm/js" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="id" Value="GTM-PRVFGSN" RecordedValue="GTM-PRVFGSN" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="t" Value="gtm8" RecordedValue="gtm8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cid" Value="481527858.1526545527" RecordedValue="481527858.1526545527" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gac" Value="_gaexp%3DGAX1.2.Gv_SX9IISNW-0D-dG3puSg.17760.1" RecordedValue="_gaexp%3DGAX1.2.Gv_SX9IISNW-0D-dG3puSg.17760.1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="ef88315b-ad72-4aac-ac9e-01d89d36421e" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1024546647/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="random" Value="1526558546012" RecordedValue="1526558546012" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cv" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fst" Value="1526558546012" RecordedValue="1526558546012" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="resp" Value="GooglemKTybQhCsO" RecordedValue="GooglemKTybQhCsO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_h" Value="768" RecordedValue="768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_w" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_ah" Value="728" RecordedValue="728" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_aw" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_his" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_tz" Value="180" RecordedValue="180" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="data" Value="pagetype%3DButikDetay" RecordedValue="pagetype%3DButikDetay" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="G4r" RecordedValue="G4r" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.trendyol.com%2F" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tiba" Value="Hoti%C3%A7%20-%20Yaz%20%26%20K%C4%B1%C5%9F%20Koleksiyonu%20%7C%20Trendyol" RecordedValue="Hoti%C3%A7%20-%20Yaz%20%26%20K%C4%B1%C5%9F%20Koleksiyonu%20%7C%20Trendyol" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="8a60b6e4-9433-4e26-979c-82fd33212a23" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/973256821/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="random" Value="1526558546039" RecordedValue="1526558546039" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cv" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fst" Value="1526558546039" RecordedValue="1526558546039" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="resp" Value="GooglemKTybQhCsO" RecordedValue="GooglemKTybQhCsO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="eid" Value="376635471" RecordedValue="376635471" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_h" Value="768" RecordedValue="768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_w" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_ah" Value="728" RecordedValue="728" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_aw" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_his" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_tz" Value="180" RecordedValue="180" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="data" Value="pagetype%3DButikDetay" RecordedValue="pagetype%3DButikDetay" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="G4r" RecordedValue="G4r" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.trendyol.com%2F" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tiba" Value="Hoti%C3%A7%20-%20Yaz%20%26%20K%C4%B1%C5%9F%20Koleksiyonu%20%7C%20Trendyol" RecordedValue="Hoti%C3%A7%20-%20Yaz%20%26%20K%C4%B1%C5%9F%20Koleksiyonu%20%7C%20Trendyol" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="8487ba27-14ff-4ba0-9b9b-5e532b7feffb" Version="1.1" Url="https://connect.facebook.net/signals/config/1434139333470513" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="v" Value="2.8.14" RecordedValue="2.8.14" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="r" Value="stable" RecordedValue="stable" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="e492e6e2-2ae8-4829-9ad4-1b46d5044bc7" Version="1.1" Url="https://www.googleadservices.com/pagead/conversion/1000359537/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="random" Value="1526558546601" RecordedValue="1526558546601" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cv" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fst" Value="1526558546601" RecordedValue="1526558546601" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="value" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="label" Value="lcFyCOqF13oQ8YyB3QM" RecordedValue="lcFyCOqF13oQ8YyB3QM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="resp" Value="GooglemKTybQhCsO" RecordedValue="GooglemKTybQhCsO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_h" Value="768" RecordedValue="768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_w" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_ah" Value="728" RecordedValue="728" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_aw" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_his" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_tz" Value="180" RecordedValue="180" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="G4r" RecordedValue="G4r" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.trendyol.com%2F" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tiba" Value="Hoti%C3%A7%20-%20Yaz%20%26%20K%C4%B1%C5%9F%20Koleksiyonu%20%7C%20Trendyol" RecordedValue="Hoti%C3%A7%20-%20Yaz%20%26%20K%C4%B1%C5%9F%20Koleksiyonu%20%7C%20Trendyol" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="21d909ca-6313-4483-8ed6-275c838d88a6" Version="1.1" Url="https://m2.trendyol.com/script" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="userId" Value="undefined" RecordedValue="undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pid" Value="cioJll18h7" RecordedValue="cioJll18h7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="OPTIONS" Guid="27922563-a6bc-4ff6-94b8-24c24484d706" Version="1.1" Url="https://mobile.trendyol.com/secure/json/getUserBasketItemCount" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <BinaryHttpBody ContentType="">
+      </BinaryHttpBody>
+    </Request>
+    <Request Method="GET" Guid="4919d6ae-2af9-4e00-8fc2-45422a4e8f0c" Version="1.1" Url="https://bid.g.doubleclick.net/xbbe/pixel" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="d" Value="KAE" RecordedValue="KAE" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="c8dc7a19-348a-4165-85b3-398a086a5c44" Version="1.1" Url="https://mobile.trendyol.com/secure/json/getUserBasketItemCount" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <StringHttpBody ContentType="application/json" InsertByteOrderMark="False">ewAiAEEAcABwAGwAaQBjAGEAdABpAG8AbgAiADoAMAAsACIAQwBsAGkAZQBuAHQAVgBlAHIAcwBpAG8AbgAiADoAIgBuAHUAbABsACIALAAiAFQAbwBrAGUAbgAiADoAewAiAFQAaQBjAGsAZQB0ACIAOgAwACwAIgBVAHMAZQByAEkAZAAiADoAIgAwACIAfQB9AA==</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="0587d3cc-ff2d-4f38-b7b3-96b9366d4028" Version="1.1" Url="https://creativecdn.com/tags" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="id" Value="pr_G2vgZAaYR7hDjHk0neuD_category2_185219" RecordedValue="pr_G2vgZAaYR7hDjHk0neuD_category2_185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="be3a62e0-768c-450d-baf4-304b308b128f" Version="1.1" Url="https://mc.yandex.ru/watch/34273590" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="wmode" Value="7" RecordedValue="7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="page-ref" Value="https%3A%2F%2Fwww.trendyol.com%2F" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="page-url" Value="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="charset" Value="utf-8" RecordedValue="utf-8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="browser-info" Value="ti%3A10%3Aj%3A1%3As%3A1366x768x24%3Ask%3A1%3Aadb%3A2%3Af%3A29.0.0.171%3Afpr%3A367173465701%3Acn%3A1%3Aw%3A1087x633%3Az%3A180%3Ai%3A20180517150227%3Aet%3A1526558547%3Aen%3Autf-8%3Av%3A1112%3Ac%3A1%3Ala%3Atr-tr%3Awh%3A1%3Apv%3A1%3Als%3A992285003676%3Arqn%3A4%3Arn%3A421566030%3Ahid%3A79402307%3Ads%3A0%2C0%2C7%2C124%2C3%2C0%2C0%2C2616%2C161%2C4175%2C4240%2C32%2C2727%3Afp%3A479%3Arqnl%3A1%3Ast%3A1526558547%3Au%3A1526545529248076350%3At%3AHoti%C3%A7%20-%20Yaz%20%26%20K%C4%B1%C5%9F%20Koleksiyonu%20%7C%20Trendyol" RecordedValue="ti%3A10%3Aj%3A1%3As%3A1366x768x24%3Ask%3A1%3Aadb%3A2%3Af%3A29.0.0.171%3Afpr%3A367173465701%3Acn%3A1%3Aw%3A1087x633%3Az%3A180%3Ai%3A20180517150227%3Aet%3A1526558547%3Aen%3Autf-8%3Av%3A1112%3Ac%3A1%3Ala%3Atr-tr%3Awh%3A1%3Apv%3A1%3Als%3A992285003676%3Arqn%3A4%3Arn%3A421566030%3Ahid%3A79402307%3Ads%3A0%2C0%2C7%2C124%2C3%2C0%2C0%2C2616%2C161%2C4175%2C4240%2C32%2C2727%3Afp%3A479%3Arqnl%3A1%3Ast%3A1526558547%3Au%3A1526545529248076350%3At%3AHoti%C3%A7%20-%20Yaz%20%26%20K%C4%B1%C5%9F%20Koleksiyonu%20%7C%20Trendyol" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+      <FormPostHttpBody />
+    </Request>
+    <Request Method="GET" Guid="adbc1358-d765-42b0-9b14-1ac1e9ec881f" Version="1.1" Url="https://dis.eu.criteo.com/dis/dis.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1225.dspid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?dspid=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1226.uid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;uid=" />
+            <RuleParameter Name="EndsWith" Value="'" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1227.uid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?uid=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1228._origin" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;_origin=" />
+            <RuleParameter Name="EndsWith" Value="'" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="p" Value="9939" RecordedValue="9939" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cb" Value="17512310617" RecordedValue="17512310617" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.trendyol.com%2F" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sc_r" Value="1366x768" RecordedValue="1366x768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sc_d" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="9dd106be-541f-4146-a0fa-ae00714fbff1" Version="1.1" Url="https://m2.trendyol.com/script" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="userId" Value="undefined" RecordedValue="undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pid" Value="cioJll18h7" RecordedValue="cioJll18h7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="13a80dad-7030-42d4-8646-bb98343d7bb2" Version="1.1" Url="https://sync.ligadx.com/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="dspid" Value="18" RecordedValue="18" CorrelationBinding="{{QueryStringParam1225.dspid}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="uid" Value="e1a5eb80-b6cf-4176-b69a-9555beda48f3" RecordedValue="e1a5eb80-b6cf-4176-b69a-9555beda48f3" CorrelationBinding="{{QueryStringParam1226.uid}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="da070371-5f60-4e6d-af19-ea99cca21b74" Version="1.1" Url="https://pixel.advertising.com/ups/55945/sync" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="uid" Value="e1a5eb80-b6cf-4176-b69a-9555beda48f3" RecordedValue="e1a5eb80-b6cf-4176-b69a-9555beda48f3" CorrelationBinding="{{QueryStringParam1227.uid}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="_origin" Value="1" RecordedValue="1" CorrelationBinding="{{QueryStringParam1228._origin}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="22677c43-27d2-4c8d-ba83-1e6204343eea" Version="1.1" Url="https://m2.trendyol.com/script" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="userId" Value="undefined" RecordedValue="undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pid" Value="cioJll18h7" RecordedValue="cioJll18h7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="8aca4c7d-8bf3-4eb8-85c7-1b270e80e8ec" Version="1.1" Url="https://m2.trendyol.com/script" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="userId" Value="undefined" RecordedValue="undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pid" Value="cioJll18h7" RecordedValue="cioJll18h7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="96f6bce7-541f-4407-b5d3-6c9bc579218e" Version="1.1" Url="https://www.trendyol.com/Menu/FeaturedBoutiques" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="boutiqueQuery" Value="%2Fkadin%3Fsiralama%3D5" RecordedValue="%2Fkadin%3Fsiralama%3D5" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="genderTypeId" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="33973d93-b378-432a-93f8-eb5c268fef41" Version="1.1" Url="https://www.trendyol.com/c/Basket/GetBasketPreview/" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://www.trendyol.com/c/Basket/GetBasketPreview" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="e4c0d03e-e728-41b9-bacd-fc330e01860b" Version="1.1" Url="https://www.trendyol.com/c/sepetim" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/Hotic---Yaz--Kis-Koleksiyonu/ButikDetay/185219" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1279.org_id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?org_id=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1304.org_id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?org_id=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1401.org_id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?org_id=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1439.org_id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?org_id=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1511.org_id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?org_id=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1518.org_id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?org_id=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+    </Request>
+    <Request Method="GET" Guid="53ad76dc-877b-47f9-8500-0cde3bbb57aa" Version="1.1" Url="https://www.trendyol.com/c/Content/fonts/sourcesanspro-regular-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="94f5d8ad-db31-4096-801c-5df8de51d0e4" Version="1.1" Url="https://www.trendyol.com/c/Resources/fonts/sourcesanspro-regular-webfont.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="1c74254e-78de-4c3b-844e-89409cb9bb85" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/sourcesanspro-regular-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="571f8fc2-a49d-4936-b14d-0743e6ac3428" Version="1.1" Url="https://www.trendyol.com/c/Content/fonts/sourcesanspro-semibold-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="a750440f-6aac-4973-be97-7f2df730b123" Version="1.1" Url="https://www.trendyol.com/c/Resources/fonts/sourcesanspro-semibold-webfont.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="a45ee4c4-8419-481b-9f56-51717f5ed434" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/sourcesanspro-semibold-webfont.eot" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="da7a84ce-8b6f-4fd0-a8ef-5e6f3be4d7c4" Version="1.1" Url="https://www.trendyol.com/c/Basket/Get" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="application/json, text/plain, */*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="b6f40a20-0e9a-47b9-b73e-297072bf4b31" Version="1.1" Url="https://www.trendyol.com/c/Content/fonts/oxygen-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="21271332-1c5a-46db-9435-c5752092e961" Version="1.1" Url="https://www.trendyol.com/c/Resources/fonts/oxygen-webfont.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="25cb26b2-1244-417d-8cfb-30348f4f60e4" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/oxygen-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="4b320388-96b9-449c-a8ac-27e6f4c7d71b" Version="1.1" Url="https://www.trendyol.com/c/Content/fonts/oxygen-bold-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="af9cca81-e3d8-46f9-b759-f1111e085a7d" Version="1.1" Url="https://www.trendyol.com/c/Resources/fonts/oxygen-bold-webfont.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="1e3150fd-ce5d-4d5a-be51-2881a2105cf0" Version="1.1" Url="https://common.trendyol.com/Resources/fonts/oxygen-bold-webfont.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="e480121a-1a97-4b16-9444-397f1be205d9" Version="1.1" Url="https://orange.trendyol.com/fp/check.js;CIS3SID=B91D3E5A8CFDFACE263322FE12D4E665" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="org_id" Value="1yudk5ls" RecordedValue="1yudk5ls" CorrelationBinding="{{QueryStringParam1279.org_id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="session_id" Value="4f17b068030d41138a43072ee3ddebe6_1526558551" RecordedValue="4f17b068030d41138a43072ee3ddebe6_1526558551" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="nonce" Value="b02d4d4f3170c4e4" RecordedValue="b02d4d4f3170c4e4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="eac94264-1717-48bd-b9fd-10defe0452af" Version="1.1" Url="https://orange.trendyol.com/fp/fp.swf;CIS3SID=B91D3E5A8CFDFACE263322FE12D4E665" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="org_id" Value="1yudk5ls" RecordedValue="1yudk5ls" CorrelationBinding="{{QueryStringParam1304.org_id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="session_id" Value="4f17b068030d41138a43072ee3ddebe6_1526558551" RecordedValue="4f17b068030d41138a43072ee3ddebe6_1526558551" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="nonce" Value="b02d4d4f3170c4e4" RecordedValue="b02d4d4f3170c4e4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ck" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="OPTIONS" Guid="43929d95-aca3-475c-aeb2-1a77acdfb2b6" Version="1.1" Url="https://mobile.trendyol.com/secure/json/getUserBasketItemCount" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <BinaryHttpBody ContentType="">
+      </BinaryHttpBody>
+    </Request>
+    <Request Method="POST" Guid="e6c3d3b0-9dde-490c-b2cd-c4ac75f877d7" Version="1.1" Url="https://mobile.trendyol.com/secure/json/getUserBasketItemCount" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <StringHttpBody ContentType="application/json" InsertByteOrderMark="False">ewAiAEEAcABwAGwAaQBjAGEAdABpAG8AbgAiADoAMAAsACIAQwBsAGkAZQBuAHQAVgBlAHIAcwBpAG8AbgAiADoAIgBuAHUAbABsACIALAAiAFQAbwBrAGUAbgAiADoAewAiAFQAaQBjAGsAZQB0ACIAOgAwACwAIgBVAHMAZQByAEkAZAAiADoAMAB9AH0A</StringHttpBody>
+    </Request>
+    <Request Method="POST" Guid="84f84240-6b14-4036-baf9-f2c510216719" Version="1.1" Url="https://mc.yandex.ru/watch/34273590" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="wmode" Value="7" RecordedValue="7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="page-ref" Value="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="page-url" Value="https%3A%2F%2Fwww.trendyol.com%2Fc%2Fsepetim%23%2Fbasket" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2Fc%2Fsepetim%23%2Fbasket" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="charset" Value="utf-8" RecordedValue="utf-8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="browser-info" Value="ti%3A10%3Aj%3A1%3As%3A1366x768x24%3Ask%3A1%3Aadb%3A2%3Af%3A29.0.0.171%3Afpr%3A367173465701%3Acn%3A1%3Aw%3A1087x633%3Az%3A180%3Ai%3A20180517150237%3Aet%3A1526558558%3Aen%3Autf-8%3Av%3A1112%3Ac%3A1%3Ala%3Atr-tr%3Awh%3A1%3Apv%3A1%3Als%3A992285003676%3Arqn%3A5%3Arn%3A14176335%3Ahid%3A562358731%3Ads%3A0%2C0%2C7%2C99%2C0%2C0%2C0%2C3243%2C662%2C4033%2C4059%2C292%2C3365%3Afp%3A4484%3Arqnl%3A1%3Ast%3A1526558558%3Au%3A1526545529248076350%3At%3Atrendyol%20%7C%20al%C4%B1%C5%9Fveri%C5%9Fin%20yeni%20yolu" RecordedValue="ti%3A10%3Aj%3A1%3As%3A1366x768x24%3Ask%3A1%3Aadb%3A2%3Af%3A29.0.0.171%3Afpr%3A367173465701%3Acn%3A1%3Aw%3A1087x633%3Az%3A180%3Ai%3A20180517150237%3Aet%3A1526558558%3Aen%3Autf-8%3Av%3A1112%3Ac%3A1%3Ala%3Atr-tr%3Awh%3A1%3Apv%3A1%3Als%3A992285003676%3Arqn%3A5%3Arn%3A14176335%3Ahid%3A562358731%3Ads%3A0%2C0%2C7%2C99%2C0%2C0%2C0%2C3243%2C662%2C4033%2C4059%2C292%2C3365%3Afp%3A4484%3Arqnl%3A1%3Ast%3A1526558558%3Au%3A1526545529248076350%3At%3Atrendyol%20%7C%20al%C4%B1%C5%9Fveri%C5%9Fin%20yeni%20yolu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+      <FormPostHttpBody />
+    </Request>
+    <Request Method="GET" Guid="25d15933-dd98-4ddb-b733-33f534afd7a8" Version="1.1" Url="https://orange.trendyol.com/fp/fp.swf;CIS3SID=B91D3E5A8CFDFACE263322FE12D4E665" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="org_id" Value="1yudk5ls" RecordedValue="1yudk5ls" CorrelationBinding="{{QueryStringParam1401.org_id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="session_id" Value="4f17b068030d41138a43072ee3ddebe6_1526558551" RecordedValue="4f17b068030d41138a43072ee3ddebe6_1526558551" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="nonce" Value="b02d4d4f3170c4e4" RecordedValue="b02d4d4f3170c4e4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ck" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="1e2d5ddc-e41d-4949-b0d6-8e7c4a6d4d80" Version="1.1" Url="https://orange.trendyol.com/fp/HP" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1516.session_id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;session_id=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1517.nonce" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;nonce=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1525.session_id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;session_id=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam1526.nonce" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;nonce=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam2571.org_id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;org_id=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam2572.session_id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;session_id=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam2573.nonce" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;nonce=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam2574.pageid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;pageid=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="session_id" Value="4f17b068030d41138a43072ee3ddebe6_1526558551" RecordedValue="4f17b068030d41138a43072ee3ddebe6_1526558551" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="org_id" Value="1yudk5ls" RecordedValue="1yudk5ls" CorrelationBinding="{{QueryStringParam1439.org_id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="nonce" Value="b02d4d4f3170c4e4" RecordedValue="b02d4d4f3170c4e4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="mode" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="hp" Value=".co-operativebank.co.uk/CBIBSWeb/login.do.co-operativebank.co.uk/CBIBSWeb/start.do.de/portal/portal/x.entropay.com/basemenu/prot/x.facebook.comx.nationet.com/x.netbank.commbank.com.au/netbank/bankmainx.npbs.co.uk/netmastergoldbanking/x.nwolb.xlogin.aspx?refereridentx.rbsdigital.xAccountSummaryx.smile.co.uk/SmileWeb/login.do.smile.co.uk/SmileWeb/start.do.yandex.rux/CapitalOne_Consumer/x/easypay.by/x/sbank.ru/x53.com/servlet/efsonlinex://online.wellsfargo.com/x://secure.assist.ru/assistid/protected/main.doxabbeynational.co.uk/EBAN_ENS/BtoChannelDriverxalliance-leicesterxaltergold.com/login.phpxamericanexpress.com/myca/intl/acctsumm/emea/accountSummaryxbancaintesa.it/xbankcardservices.co.ukxbankofamerica.com/xbanquepopulaire.fr/xbnpparibas.net/xcahoot.comxcapitaloneonline.co.uk/CapitalOne_Consumer/Transactionsxcbonline.co.uk/ralu/reglm-web/setupSecurityQuestionPagexcibc.comxPreSignOnxcibc.comxSignOnxcitibank.ru/xclient.uralsibbank.ruxco-operativebank.co.uk/CBIBSWeb/loginSpixcommerceonlinebanking.comxcoventrybuildingsociety.co.ukxdeutsche-bank.dexdiscovercard.com/cardmembersvcs/strongauth/app/sa_mainxebanking.bawag.comxebc_ebc1961xegg.com/customer/movemoneyxegg.com/customer/yourmoneyxfacebook.com/xhalifax-online.co.ukxMyAccountsxhalifax-online.co.uk/x/Mhalifax-online.co.uk/personalxhsbc.co.uk/1/2/personal/internet-banking/xhsbc.comxhttps://banking.postbank.de/app/finanzstatus.init.do;jsessionidxib.fineco.it/FinecoWeb/BonificiServletxib.fineco.it/FinecoWeb/jsp/Main/HBFineco.jspxib.fineco.it/FinecoWeb/jsp/Main/Principale.jspxibank.alfabank.ruxin-biz.it/xipko.plxlibertyreserve.com/x/historylibertyreserve.com/x/loginwww.libertyreserve.com/x/Core.jswww.libertyreserve.com/x/transfer.libertyreserve.com/x/commonscript.jslloydstsb.co.uk/personal/a/account_overview/xmbna.co.ukxmenyala.ruxmoney.yandex.ruxmoneybookers.com/app/login.plxmoneymail.ruxmy.ebay.co.uk/ws/eBayISAPI.dll?MyEbayxmy.ebay.com/ws/eBayISAPI.dll?MyEbayxmy.ebay.fr/ws/eBayISAPI.dll?MyEbayxmybusinessbank.co.ukxnationet.com/AppServices/SignOn/SignOnProcess/RcaSignOnxnpbs.co.ukxnwolb.com/AccountSummaryxnwolb.com/Statementsxnwolb.com/TransfersLandingPagexoltx.fidelity.com/x/x/ofsummary/summaryxonline.lloydstsb.co.ukxonlinebanking.mandtbank.com/summary/AccountSummaryxpassport.yandex.ruxpaypal.com/x/cgi-bin/webscr?cmd%3d_accountxpaypal.com/x/cgi-bin/webscr?cmd%3d_login-done" RecordedValue=".co-operativebank.co.uk/CBIBSWeb/login.do.co-operativebank.co.uk/CBIBSWeb/start.do.de/portal/portal/x.entropay.com/basemenu/prot/x.facebook.comx.nationet.com/x.netbank.commbank.com.au/netbank/bankmainx.npbs.co.uk/netmastergoldbanking/x.nwolb.xlogin.aspx?refereridentx.rbsdigital.xAccountSummaryx.smile.co.uk/SmileWeb/login.do.smile.co.uk/SmileWeb/start.do.yandex.rux/CapitalOne_Consumer/x/easypay.by/x/sbank.ru/x53.com/servlet/efsonlinex://online.wellsfargo.com/x://secure.assist.ru/assistid/protected/main.doxabbeynational.co.uk/EBAN_ENS/BtoChannelDriverxalliance-leicesterxaltergold.com/login.phpxamericanexpress.com/myca/intl/acctsumm/emea/accountSummaryxbancaintesa.it/xbankcardservices.co.ukxbankofamerica.com/xbanquepopulaire.fr/xbnpparibas.net/xcahoot.comxcapitaloneonline.co.uk/CapitalOne_Consumer/Transactionsxcbonline.co.uk/ralu/reglm-web/setupSecurityQuestionPagexcibc.comxPreSignOnxcibc.comxSignOnxcitibank.ru/xclient.uralsibbank.ruxco-operativebank.co.uk/CBIBSWeb/loginSpixcommerceonlinebanking.comxcoventrybuildingsociety.co.ukxdeutsche-bank.dexdiscovercard.com/cardmembersvcs/strongauth/app/sa_mainxebanking.bawag.comxebc_ebc1961xegg.com/customer/movemoneyxegg.com/customer/yourmoneyxfacebook.com/xhalifax-online.co.ukxMyAccountsxhalifax-online.co.uk/x/Mhalifax-online.co.uk/personalxhsbc.co.uk/1/2/personal/internet-banking/xhsbc.comxhttps://banking.postbank.de/app/finanzstatus.init.do;jsessionidxib.fineco.it/FinecoWeb/BonificiServletxib.fineco.it/FinecoWeb/jsp/Main/HBFineco.jspxib.fineco.it/FinecoWeb/jsp/Main/Principale.jspxibank.alfabank.ruxin-biz.it/xipko.plxlibertyreserve.com/x/historylibertyreserve.com/x/loginwww.libertyreserve.com/x/Core.jswww.libertyreserve.com/x/transfer.libertyreserve.com/x/commonscript.jslloydstsb.co.uk/personal/a/account_overview/xmbna.co.ukxmenyala.ruxmoney.yandex.ruxmoneybookers.com/app/login.plxmoneymail.ruxmy.ebay.co.uk/ws/eBayISAPI.dll?MyEbayxmy.ebay.com/ws/eBayISAPI.dll?MyEbayxmy.ebay.fr/ws/eBayISAPI.dll?MyEbayxmybusinessbank.co.ukxnationet.com/AppServices/SignOn/SignOnProcess/RcaSignOnxnpbs.co.ukxnwolb.com/AccountSummaryxnwolb.com/Statementsxnwolb.com/TransfersLandingPagexoltx.fidelity.com/x/x/ofsummary/summaryxonline.lloydstsb.co.ukxonlinebanking.mandtbank.com/summary/AccountSummaryxpassport.yandex.ruxpaypal.com/x/cgi-bin/webscr?cmd%3d_accountxpaypal.com/x/cgi-bin/webscr?cmd%3d_login-done" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="login_access" Value="xpaypal.com/us/cgi-bin/webscr?cmd%3d_login-done" RecordedValue="xpaypal.com/us/cgi-bin/webscr?cmd%3d_login-done" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="login_access" Value="xposte.it/xpsk.co.at/xsecure.lloydstsb.co.uk/personal/a/account_overviewxsmile.co.uk/SmileWeb/passcodexusaa.com/xusbank.com/internetBanking/RequestRouter?requestCmdId%3dGxwachovia.comxybonline.co.uk/ralu/reglm-web/setupSecurityQuestionPagex.amazon.fr/xhistory/orders/view.htmlx.banquepopulaire.frxShowPortal.dox.bnpparibasfortis.bexHome_Logon.aspx.cdiscount.com/Account/Home.aspxx.cmb.frxaccueil.jspx.credit-agricole.frxentreeBam?sessionSAGx.labanquepostale.fr/xreleveCPP-releve_ccp.eax.secure.bnpparibas.net/NSFR?Actionx.secure.lcl.frxAccueilxcredem.it/OneToOne/ebank/functionsxmijn.ing.nl/xonline.ybs.co.ukxwww.discover.com/xorder.cdiscount.comxCustomer.aspxxsealinfo.verisign.com/splash?form_filexvos-comptes.credit-du-nord.fr/CDC_TableauDeBord_0.asp?xvoscomptesenligne.labanquepostale.frxwww.x.caisse-epargne.fr/Portail.aspxxwww.exabanque.netxonglet.phpxdeutsche-bank.de/xnorisbank.de/xpostbank.de/xtargobank.de/x.x.de/portal/x.bankofamerica.com/x/commonscript.js.bmo.com/OLB?id%3dx.bmo.com/RMC?id%3dx.chase.com/x.aspxx.chase.com/js/Reporting.jsx.koodomobile.com/account/selfserve/x/xaccountId%3dx.payment.ru/x.scotiabank.com/portal/index.jsp?xbancopopular.es/empresasxcreval.it/login2007/loginSiciliano.aspxfirst-direct.com/xipko.plxmybusinessbank.co.ukxsanpaoloimi.com/xulsterbankanytimebanking.x/login.aspxx" RecordedValue="xposte.it/xpsk.co.at/xsecure.lloydstsb.co.uk/personal/a/account_overviewxsmile.co.uk/SmileWeb/passcodexusaa.com/xusbank.com/internetBanking/RequestRouter?requestCmdId%3dGxwachovia.comxybonline.co.uk/ralu/reglm-web/setupSecurityQuestionPagex.amazon.fr/xhistory/orders/view.htmlx.banquepopulaire.frxShowPortal.dox.bnpparibasfortis.bexHome_Logon.aspx.cdiscount.com/Account/Home.aspxx.cmb.frxaccueil.jspx.credit-agricole.frxentreeBam?sessionSAGx.labanquepostale.fr/xreleveCPP-releve_ccp.eax.secure.bnpparibas.net/NSFR?Actionx.secure.lcl.frxAccueilxcredem.it/OneToOne/ebank/functionsxmijn.ing.nl/xonline.ybs.co.ukxwww.discover.com/xorder.cdiscount.comxCustomer.aspxxsealinfo.verisign.com/splash?form_filexvos-comptes.credit-du-nord.fr/CDC_TableauDeBord_0.asp?xvoscomptesenligne.labanquepostale.frxwww.x.caisse-epargne.fr/Portail.aspxxwww.exabanque.netxonglet.phpxdeutsche-bank.de/xnorisbank.de/xpostbank.de/xtargobank.de/x.x.de/portal/x.bankofamerica.com/x/commonscript.js.bmo.com/OLB?id%3dx.bmo.com/RMC?id%3dx.chase.com/x.aspxx.chase.com/js/Reporting.jsx.koodomobile.com/account/selfserve/x/xaccountId%3dx.payment.ru/x.scotiabank.com/portal/index.jsp?xbancopopular.es/empresasxcreval.it/login2007/loginSiciliano.aspxfirst-direct.com/xipko.plxmybusinessbank.co.ukxsanpaoloimi.com/xulsterbankanytimebanking.x/login.aspxx" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="724563ad-6f23-41c8-a73f-aec6d0d3c217" Version="1.1" Url="https://orange.trendyol.com/fp/ls_fp.html;CIS3SID=B91D3E5A8CFDFACE263322FE12D4E665" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="org_id" Value="1yudk5ls" RecordedValue="1yudk5ls" CorrelationBinding="{{QueryStringParam1511.org_id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="session_id" Value="4f17b068030d41138a43072ee3ddebe6_1526558551" RecordedValue="4f17b068030d41138a43072ee3ddebe6_1526558551" CorrelationBinding="{{QueryStringParam1516.session_id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="nonce" Value="b02d4d4f3170c4e4" RecordedValue="b02d4d4f3170c4e4" CorrelationBinding="{{QueryStringParam1517.nonce}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="126aac62-a190-48c8-8f97-875a535a4c81" Version="1.1" Url="https://orange.trendyol.com/fp/top_fp.html;CIS3SID=B91D3E5A8CFDFACE263322FE12D4E665" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="org_id" Value="1yudk5ls" RecordedValue="1yudk5ls" CorrelationBinding="{{QueryStringParam1518.org_id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="session_id" Value="4f17b068030d41138a43072ee3ddebe6_1526558551" RecordedValue="4f17b068030d41138a43072ee3ddebe6_1526558551" CorrelationBinding="{{QueryStringParam1525.session_id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="nonce" Value="b02d4d4f3170c4e4" RecordedValue="b02d4d4f3170c4e4" CorrelationBinding="{{QueryStringParam1526.nonce}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="043b2558-0758-4dd9-b0bf-4180a3bf4d9f" Version="1.1" Url="https://creativecdn.com/tags" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="id" Value="pr_G2vgZAaYR7hDjHk0neuD_basketstatus_undefined" RecordedValue="pr_G2vgZAaYR7hDjHk0neuD_basketstatus_undefined" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="99a9b509-26b5-4351-a497-00b6ad939bf9" Version="1.1" Url="https://www.google-analytics.com/gtm/js" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="id" Value="GTM-PRVFGSN" RecordedValue="GTM-PRVFGSN" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="t" Value="gtm34" RecordedValue="gtm34" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cid" Value="481527858.1526545527" RecordedValue="481527858.1526545527" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gac" Value="_gaexp%3DGAX1.2.Gv_SX9IISNW-0D-dG3puSg.17760.1" RecordedValue="_gaexp%3DGAX1.2.Gv_SX9IISNW-0D-dG3puSg.17760.1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="22ea9d8d-3815-4cd2-827f-1eb43640bf4e" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1024546647/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="random" Value="1526558559359" RecordedValue="1526558559359" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cv" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fst" Value="1526558559359" RecordedValue="1526558559359" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="resp" Value="GooglemKTybQhCsO" RecordedValue="GooglemKTybQhCsO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_h" Value="768" RecordedValue="768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_w" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_ah" Value="728" RecordedValue="728" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_aw" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_his" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_tz" Value="180" RecordedValue="180" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="data" Value="membertype%3Dvisitor" RecordedValue="membertype%3Dvisitor" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="G4r" RecordedValue="G4r" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.trendyol.com%2Fc%2Fsepetim" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2Fc%2Fsepetim" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tiba" Value="trendyol%20%7C%20al%C4%B1%C5%9Fveri%C5%9Fin%20yeni%20yolu" RecordedValue="trendyol%20%7C%20al%C4%B1%C5%9Fveri%C5%9Fin%20yeni%20yolu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="54218d67-d736-4385-81ab-ccc8cf05c03e" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/973256821/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="random" Value="1526558559367" RecordedValue="1526558559367" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cv" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fst" Value="1526558559367" RecordedValue="1526558559367" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="resp" Value="GooglemKTybQhCsO" RecordedValue="GooglemKTybQhCsO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="eid" Value="376635471%2C759238990" RecordedValue="376635471%2C759238990" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_h" Value="768" RecordedValue="768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_w" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_ah" Value="728" RecordedValue="728" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_aw" Value="1366" RecordedValue="1366" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_his" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_tz" Value="180" RecordedValue="180" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="data" Value="membertype%3Dvisitor" RecordedValue="membertype%3Dvisitor" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="G4r" RecordedValue="G4r" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.trendyol.com%2Fc%2Fsepetim" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2Fc%2Fsepetim" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" RecordedValue="https%3A%2F%2Fwww.trendyol.com%2FHotic---Yaz--Kis-Koleksiyonu%2FButikDetay%2F185219" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tiba" Value="trendyol%20%7C%20al%C4%B1%C5%9Fveri%C5%9Fin%20yeni%20yolu" RecordedValue="trendyol%20%7C%20al%C4%B1%C5%9Fveri%C5%9Fin%20yeni%20yolu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="2f4c93bc-a33e-4ab5-8bfb-408118afe54c" Version="1.1" Url="https://bid.g.doubleclick.net/xbbe/pixel" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="d" Value="KAE" RecordedValue="KAE" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="75025350-4d4a-4ff2-ba26-2e7835c090c8" Version="1.1" Url="https://connect.facebook.net/signals/config/1434139333470513" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.trendyol.com/c/sepetim" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="v" Value="2.8.14" RecordedValue="2.8.14" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="r" Value="stable" RecordedValue="stable" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="bd8d8bd5-040a-461e-99a7-f4cf982d081c" Version="1.1" Url="https://ams.creativecdn.com/bidder/pubs/tagging" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://creativecdn.com/tags?id=pr_G2vgZAaYR7hDjHk0neuD_basketstatus_undefined" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="da5286d3-a81a-4f04-a42f-4a26adf191db" Version="1.1" Url="https://aa.online-metrix.net/fpc.swf" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://orange.trendyol.com/fp/fp.swf;CIS3SID=B91D3E5A8CFDFACE263322FE12D4E665?org_id=1yudk5ls&amp;session_id=4f17b068030d41138a43072ee3ddebe6_1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="session" Value="4f17b068030d41138a43072ee3ddebe6%5F1526558551" RecordedValue="4f17b068030d41138a43072ee3ddebe6%5F1526558551" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="org" Value="1yudk5ls" RecordedValue="1yudk5ls" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="nu" Value="57579" RecordedValue="57579" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fx" Value="39322677706c3f60747670733a2f2f6d7a616e65652c7672656c64796f6e2e61656d2f64722f266e673d63393465663638313063323434306363636e373560363b606136606138333539247d3d62323064346c34663331353061366536" RecordedValue="39322677706c3f60747670733a2f2f6d7a616e65652c7672656c64796f6e2e61656d2f64722f266e673d63393465663638313063323434306363636e373560363b606136606138333539247d3d62323064346c34663331353061366536" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="cafebbcc-5027-4981-856a-4582d4d1227b" Version="1.1" Url="https://orange.trendyol.com/fp/ARF;CIS3SID=E0E3C7BCB30098C08F76C378D53CD9C1" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://orange.trendyol.com/fp/HP?session_id=4f17b068030d41138a43072ee3ddebe6_1526558551&amp;org_id=1yudk5ls&amp;nonce=b02d4d4f3170c4e4&amp;mode=2&amp;hp=.co-operativebank.co.uk/CBIBSWeb/login.do.co-operativebank.co.uk/CBIBSWeb/start.do.de/portal/portal/x.entropay.com/basemenu/prot/x.facebook.comx.nationet.com/x.netbank.commbank.com.au/netbank/bankmainx.npbs.co.uk/netmastergoldbanking/x.nwolb.xlogin.aspx?refereridentx.rbsdigital.xAccountSummaryx.smile.co.uk/SmileWeb/login.do.smile.co.uk/SmileWeb/start.do.yandex.rux/CapitalOne_Consumer/x/easypay.by/x/sbank.ru/x53.com/servlet/efsonlinex://online.wellsfargo.com/x://secure.assist.ru/assistid/protected/main.doxabbeynational.co.uk/EBAN_ENS/BtoChannelDriverxalliance-leicesterxaltergold.com/login.phpxamericanexpress.com/myca/intl/acctsumm/emea/accountSummaryxbancaintesa.it/xbankcardservices.co.ukxbankofamerica.com/xbanquepopulaire.fr/xbnpparibas.net/xcahoot.comxcapitaloneonline.co.uk/CapitalOne_Consumer/Transactionsxcbonline.co.uk/ralu/reglm-web/setupSecurityQuestionPagexcibc.comxPreSignOnxcibc.comxSignOnxcitibank.ru/xclient.uralsibbank.ruxco-operativebank.co.uk/CBIBSWeb/loginSpixcommerceonlinebanking.comxcoventrybuildingsociety.co.ukxdeutsche-bank.dexdiscovercard.com/cardmembersvcs/strongauth/app/sa_mainxebanking.bawag.comxebc_ebc1961xegg.com/customer/movemoneyxegg.com/customer/yourmoneyxfacebook.com/xhalifax-online.co.ukxMyAccountsxhalifax-online.co.uk/x/Mhalifax-online.co.uk/personalxhsbc.co.uk/1/2/personal/internet-banking/xhsbc.comxhttps://banking.postbank.de/app/finanzstatus.init.do;jsessionidxib.fineco.it/FinecoWeb/BonificiServletxib.fineco.it/FinecoWeb/jsp/Main/HBFineco.jspxib.fineco.it/FinecoWeb/jsp/Main/Principale.jspxibank.alfabank.ruxin-biz.it/xipko.plxlibertyreserve.com/x/historylibertyreserve.com/x/loginwww.libertyreserve.com/x/Core.jswww.libertyreserve.com/x/transfer.libertyreserve.com/x/commonscript.jslloydstsb.co.uk/personal/a/account_overview/xmbna.co.ukxmenyala.ruxmoney.yandex.ruxmoneybookers.com/app/login.plxmoneymail.ruxmy.ebay.co.uk/ws/eBayISAPI.dll?MyEbayxmy.ebay.com/ws/eBayISAPI.dll?MyEbayxmy.ebay.fr/ws/eBayISAPI.dll?MyEbayxmybusinessbank.co.ukxnationet.com/AppServices/SignOn/SignOnProcess/RcaSignOnxnpbs.co.ukxnwolb.com/AccountSummaryxnwolb.com/Statementsxnwolb.com/TransfersLandingPagexoltx.fidelity.com/x/x/ofsummary/summaryxonline.lloydstsb.co.ukxonlinebanking.mandtbank.com/summary/AccountSummaryxpassport.yandex.ruxpaypal.com/x/cgi-bin/webscr?cmd=_accountxpaypal.com/x/cgi-bin/webscr?cmd=_login-done&amp;login_access=xpaypal.com/us/cgi-bin/webscr?cmd=_login-done&amp;login_access=xposte.it/xpsk.co.at/xsecure.lloydstsb.co.uk/personal/a/account_overviewxsmile.co.uk/SmileWeb/passcodexusaa.com/xusbank.com/internetBanking/RequestRouter?requestCmdId=Gxwachovia.comxybonline.co.uk/ralu/reglm-web/setupSecurityQuestionPagex.amazon.fr/xhistory/orders/view.htmlx.banquepopulaire.frxShowPortal.dox.bnpparibasfortis.bexHome_Logon.aspx.cdiscount.com/Account/Home.aspxx.cmb.frxaccueil.jspx.credit-agricole.frxentreeBam?sessionSAGx.labanquepostale.fr/xreleveCPP-releve_ccp.eax.secure.bnpparibas.net/NSFR?Actionx.secure.lcl.frxAccueilxcredem.it/OneToOne/ebank/functionsxmijn.ing.nl/xonline.ybs.co.ukxwww.discover.com/xorder.cdiscount.comxCustomer.aspxxsealinfo.verisign.com/splash?form_filexvos-comptes.credit-du-nord.fr/CDC_TableauDeBord_0.asp?xvoscomptesenligne.labanquepostale.frxwww.x.caisse-epargne.fr/Portail.aspxxwww.exabanque.netxonglet.phpxdeutsche-bank.de/xnorisbank.de/xpostbank.de/xtargobank.de/x.x.de/portal/x.bankofamerica.com/x/commonscript.js.bmo.com/OLB?id=x.bmo.com/RMC?id=x.chase.com/x.aspxx.chase.com/js/Reporting.jsx.koodomobile.com/account/selfserve/x/xaccountId=x.payment.ru/x.scotiabank.com/portal/index.jsp?xbancopopular.es/empresasxcreval.it/login2007/loginSiciliano.aspxfirst-direct.com/xipko.plxmybusinessbank.co.ukxsanpaoloimi.com/xulsterbankanytimebanking.x/login.aspxx" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="org_id" Value="1yudk5ls" RecordedValue="1yudk5ls" CorrelationBinding="{{QueryStringParam2571.org_id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="session_id" Value="4f17b068030d41138a43072ee3ddebe6_1526558551" RecordedValue="4f17b068030d41138a43072ee3ddebe6_1526558551" CorrelationBinding="{{QueryStringParam2572.session_id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="nonce" Value="b02d4d4f3170c4e4" RecordedValue="b02d4d4f3170c4e4" CorrelationBinding="{{QueryStringParam2573.nonce}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pageid" Value="99998" RecordedValue="99998" CorrelationBinding="{{QueryStringParam2574.pageid}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sera_parametere" Value="BEAPXAYAB1EGUwBRAQNTAwECCgdRU1JQCwYCU1sAAwVaUQEGAFMGXwJSUxYQR1hdDEBHEEdBByIWBnUVVHBABlJaQQFYAVkDXUVEFVBwQAMgABdTcEEGVlteREQQEVZwRwdwQQMgEgJaDFEAUQ0EVVIGAlcNBgBWAAkHUgUEVlAGUVdQBlEEAAFSUlEAAwZRVlYUClsKVwMOUwcCBwABAAQDA1MEBwADBxddQ14EHVJXUVcHAAAMV1dVVggCB10CBlZQVANcUQMAVFEDUQwHVVoBA11XVgRAUlgKAlQBVRILWQ9JBUJEDw4IDglaDENcCQ0UBgkhTBZfXkVVERIHQl8BA0JWC0dbZFhZVAxDFhIBUg8QUB5rBVJdW1ICVw4SB0QPVQRU" RecordedValue="BEAPXAYAB1EGUwBRAQNTAwECCgdRU1JQCwYCU1sAAwVaUQEGAFMGXwJSUxYQR1hdDEBHEEdBByIWBnUVVHBABlJaQQFYAVkDXUVEFVBwQAMgABdTcEEGVlteREQQEVZwRwdwQQMgEgJaDFEAUQ0EVVIGAlcNBgBWAAkHUgUEVlAGUVdQBlEEAAFSUlEAAwZRVlYUClsKVwMOUwcCBwABAAQDA1MEBwADBxddQ14EHVJXUVcHAAAMV1dVVggCB10CBlZQVANcUQMAVFEDUQwHVVoBA11XVgRAUlgKAlQBVRILWQ9JBUJEDw4IDglaDENcCQ0UBgkhTBZfXkVVERIHQl8BA0JWC0dbZFhZVAxDFhIBUg8QUB5rBVJdW1ICVw4SB0QPVQRU" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="count" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="max" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="bdff7d79-8855-4835-a652-3321a39f1b8e" Version="1.1" Url="https://orange.trendyol.com/crossdomain.xml" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False" />
+  </Items>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>

@@ -1,0 +1,11 @@
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\bin\Debug\WebTest1.webtest
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\bin\Debug\WebTest2.webtest
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\bin\Debug\WebAndLoadTestProject3.dll
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\bin\Debug\WebAndLoadTestProject3.pdb
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\obj\Debug\WebAndLoadTestProject3.csproj.CoreCompileInputs.cache
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\obj\Debug\WebAndLoadTestProject3.dll
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\obj\Debug\WebAndLoadTestProject3.pdb
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\bin\Debug\LoadTest1.loadtest
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\obj\Debug\WebAndLoadTestProject3.csprojAssemblyReference.cache
+C:\Users\gizem\source\repos\WebAndLoadTestProject3\WebAndLoadTestProject3\obj\Debug\WebAndLoadTestProject3.csproj.CopyComplete
